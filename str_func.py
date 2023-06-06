@@ -2,8 +2,8 @@
 s = input()
 def uppersymbols(s):
     """Делает все буквы заглавными"""
-    print(s.upper())
+    return(s.upper())
 
 def upper_first_symbol():
     """ Делает первую букву заглавной"""
-    print(s.capitalize())
+    return(s.capitalize())
